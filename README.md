@@ -9,3 +9,5 @@ git add third
 git status
 
 git branch1
+
+branch1 modify first
