@@ -1,1 +1,3 @@
 # gitlearn
+
+git add . first
