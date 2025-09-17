@@ -1,13 +1,1 @@
-# gitlearn
-
-git add . first
-
-git add . second
-
-git add third
-
-git status
-
-git branch1
-
-branch1 modify first
+记录软考高级架构师的学习过程。
