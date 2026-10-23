@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "d171c4bfcf3760a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "bac6cae44c7c01de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30cde44cb15c528d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web架构.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "web架构"
+            }
+          },
+          {
+            "id": "417d691bbfb5c6db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11、面向对象技术.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11、面向对象技术"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2927179497fd4ea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "970886f6b4e92e7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44edbe370b6494bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "73a3c205c64f25ec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "34c06f4d5f0cab1b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d21ecf12f2eac77e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d43a6ba7e5adc7e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05926762ab1f5408",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "关键点.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "49a8611a70180ed4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1、计算机硬件.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "1、计算机硬件 的出链列表"
+            }
+          },
+          {
+            "id": "90fe9072c0738fb6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5a7842d1cdd4d3a1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "9680623a802aa11d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1、计算机硬件.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "1、计算机硬件 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "417d691bbfb5c6db",
+  "lastOpenFiles": [
+    "13、系统架构设计.md",
+    "12、项目管理.md",
+    "14、软件可靠性基础.md",
+    "10、软件工程.md",
+    "11、面向对象技术.md",
+    "9、系统安全.md",
+    "8、信息系统基础知识.md",
+    "2、操作系统知识.md",
+    "5、计算机网络.md",
+    "作文总体结构.md",
+    "web架构.md",
+    "关键点.md",
+    "视频制作.md",
+    "大数据架构~.md",
+    "历年真题/案例主题~.md",
+    "真题/README.md",
+    "云原生~.md",
+    "真题/2025年上半年/2025年上半年-系统架构设计师-综合知识(回忆版).pdf",
+    "真题/2025年下半年/论文.md",
+    "真题/2025年下半年/综合知识.md",
+    "真题/2025年下半年/案例分析.md",
+    "真题/2026年上半年/论文.md",
+    "真题/2026年上半年/综合知识.md",
+    "真题/2026年上半年/案例分析.md",
+    "真题/2024年上半年/论文.md",
+    "真题/2024年上半年/综合知识.md",
+    "真题/2024年上半年/案例分析.md",
+    "真题/2025年下半年",
+    "真题/2026年上半年",
+    "真题/2024年上半年",
+    "真题/2025年上半年",
+    "真题/2024年下半年",
+    "真题/2023年下半年",
+    "真题/2022年下半年",
+    "真题/2021年下半年",
+    "真题/2020年下半年"
+  ]
+}
